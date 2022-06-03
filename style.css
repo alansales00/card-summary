@@ -11,6 +11,7 @@ body{
     background-color: hsl(225, 100%, 94%);
     font-family: 'Red Hat Display', sans-serif;
     font-size: 62.5%;
+    height: 100vh;
 }
 
 section{
